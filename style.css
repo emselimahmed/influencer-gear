@@ -114,4 +114,17 @@
     align-items: center;
     width: 1000px;
     margin: 0 auto;
+    border: 1px solid grey;
+    padding: 50px;
+}
+
+/* ------- Popular Collection styles ------- */
+
+
+.popular-collection-section{
+    margin-top: 50px;
+}
+.popular-collection-section-title{
+    text-align: center;
+    padding: 50px;
 }
