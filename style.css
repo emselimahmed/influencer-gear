@@ -12,7 +12,7 @@
 
 .header{
     margin: 60px 100px;
-    height: 100vh;
+    height: 80vh;
 }
 
 /* ------ Shared styles ------- */
@@ -104,4 +104,14 @@
 
 .banner-btn{
     margin-top: 20px;
+}
+
+/* ------- Sponsor styles ------- */
+
+.sponsor-images{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
 }
